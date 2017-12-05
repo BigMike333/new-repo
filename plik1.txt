@@ -1,6 +1,19 @@
+<<<<<<< HEAD
 Linia 1
 Linia 2
 Linia 3
 Linia 4
 Linia 5
 Linia 6
+=======
+dvjasdfvjhblsdfjkvdfvdfv
+fdvdfbsdfgbdfbdb
+dfbdfbfbsdfbsd
+222222222222222222
+2222222222222222
+1111111111111111
+cccccccccccccccc
+ssssssssssssd
+aaaaaaaw
+eeeeeeeeeeeee
+>>>>>>> a77b79792e02b686bf756ef1f84f0b71f80057e1
